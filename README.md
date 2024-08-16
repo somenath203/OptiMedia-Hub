@@ -37,6 +37,7 @@ OptiMedia Hub is an easy-to-use tool that helps you prepare images and videos fo
 - **Clerk**: A powerful authentication service for managing user sign-ins and registrations.
 - **Neon PostgreSQL**: A serverless, cloud-native PostgreSQL database service, optimized for modern web apps.
 - **DaisyUI**: A component library built on Tailwind CSS, used for crafting responsive and modern user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling and creating responsive designs.
 - **Cloudinary**: A cloud-based media management service for optimizing and delivering images and videos.
 - **Next Cloudinary**: A seamless integration of Cloudinary with Next.js, enabling advanced media processing.
 - **React-Hot-Toast**: A lightweight notification library used to provide instant feedback to users.
