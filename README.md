@@ -1,5 +1,9 @@
 # OptiMedia Hub
 
+## Demo video of the project
+
+https://www.youtube.com/watch?v=0tBSNBwwp30
+
 ## Introduction
 
 OptiMedia Hub is an easy-to-use tool that helps you prepare images and videos for social media. It lets content creators quickly format their media for platforms like Instagram, Twitter, and Facebook. The app uses Cloudinary for processing media, Clerk for user authentication, and Neon PostgreSQL for managing data, all within a simple and friendly interface built with Next.js.
