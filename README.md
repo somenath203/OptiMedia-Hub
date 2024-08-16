@@ -25,6 +25,7 @@ OptiMedia Hub is an easy-to-use tool that helps you prepare images and videos fo
 - **Video Input**: Upload videos with associated titles and descriptions.
 - **Card Display**: Uploaded videos are showcased on the homepage in a card format, featuring:
   - Video Preview
+  - Video Title
   - Video Description
   - Original Size
   - Compressed Size
