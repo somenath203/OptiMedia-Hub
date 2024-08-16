@@ -102,7 +102,7 @@ export async function POST(request) {
 
     return NextResponse.json(
       {
-        error: 'Something went wrong. Please try again after sometime.',
+        error: error,
       },
       {
         status: 500,

@@ -66,6 +66,7 @@ const Page = () => {
 
       }
     } catch (error) {
+      
       console.log(error);
 
       toast.error('Something went wrong while uploading the video. Please try again later.', { 
