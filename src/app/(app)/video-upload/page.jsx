@@ -21,7 +21,7 @@ const Page = () => {
 
   const [isUploading, setIsUploading] = useState(false);
 
-  const maxFileSize = 30 * 1024 * 1024; 
+  const maxFileSize = 20 * 1024 * 1024; 
 
   const handleSubmit = async (e) => {
     try {
@@ -32,7 +32,14 @@ const Page = () => {
       }
 
       if (file?.size > maxFileSize) {
-        alert('The size of file should be not be greater than 30 mb.');
+        
+        toast.error('The size of file should be not be greater than 30 mb.', { 
+          duration: 4000,
+          style: {
+            background: '#333',
+            color: '#fff',
+          },
+        });
 
         return;
       }
