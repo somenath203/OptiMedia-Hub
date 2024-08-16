@@ -29,7 +29,7 @@ OptiMedia Hub is an easy-to-use tool that helps you prepare images and videos fo
   - Original Size
   - Compressed Size
   - A download button for the compressed video
-- **User-Friendly Interface**: The app provides a smooth and intuitive experience for managing video content.
+
 
 ## Technologies Used
 
