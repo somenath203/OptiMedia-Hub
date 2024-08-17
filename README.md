@@ -36,6 +36,7 @@ OptiMedia Hub is an easy-to-use tool that helps you prepare images and videos fo
 
 - **Next.js**: A React framework for building server-side rendered and static web applications.
 - **Clerk**: A powerful authentication service for managing user sign-ins and registrations.
+- **Prisma**: An ORM that simplifies database access and management, ensuring smooth integration with Neon PostgreSQL.
 - **Neon PostgreSQL**: A serverless, cloud-native PostgreSQL database service, optimized for modern web apps.
 - **DaisyUI**: A component library built on Tailwind CSS, used for crafting responsive and modern user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for styling and creating responsive designs.
