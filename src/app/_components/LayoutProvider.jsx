@@ -9,7 +9,7 @@ import {
   LogOutIcon,
   MenuIcon,
   LayoutDashboardIcon,
-  Share2Icon,
+  Image,
   UploadIcon,
   ImageIcon,
 } from "lucide-react";
@@ -21,7 +21,7 @@ export const LayoutProvider = ({ children }) => {
 
   const sidebarItems = [
      { href: "/", icon: LayoutDashboardIcon, label: "All Videos" },
-     { href: "/social-share", icon: Share2Icon, label: "Image Optimizer" },
+     { href: "/social-share", icon: Image, label: "Image Optimizer" },
      { href: "/video-upload", icon: UploadIcon, label: "Upload Video" },
    ];
 
